@@ -31,7 +31,7 @@
 I'm **Jacob** (or cobb or cobbland or [cobb-dot-land](https://cobb.land)), a **full-stack web developer** (and writer and [game designer](https://illuminatedsnail.com) and occasional professional dungeon master) currently dwelling in the foothills of Appalachia.
 
 <div class="work" style="display:flex;gap:6px">
-    <span style="background:#00c950;"></span>
+    <span></span>
     <p>
         Available for new positions. <a href="mailto:hello@jacobdensford.com">Let's talk</a>.
     </p>
@@ -49,6 +49,9 @@ I'm **Jacob** (or cobb or cobbland or [cobb-dot-land](https://cobb.land)), a **f
 ## Languages, Tools, & Tech
 
 *A non-exhaustive collection*
+
+<img src="./img/html5.svg" width="30px" style="fill:#E34F26;">
+<img src="./img/express.svg" width="30px">
 
 <div class="icons">
 <svg role="img" viewBox="0 0 24 24" style="fill: #E34F26;" xmlns="http://www.w3.org/2000/svg"><title>HTML5</title><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z"/></svg>
