@@ -30,8 +30,8 @@
 
 I'm **Jacob** (or cobb or cobbland or [cobb-dot-land](https://cobb.land)), a **full-stack web developer** (and writer and [game designer](https://illuminatedsnail.com) and occasional professional dungeon master) currently dwelling in the foothills of Appalachia.
 
-<div class="work">
-    <span></span>
+<div class="work" style="display:flex;gap:6px">
+    <span style="background:#00c950;"></span>
     <p>
         Available for new positions. <a href="mailto:hello@jacobdensford.com">Let's talk</a>.
     </p>
