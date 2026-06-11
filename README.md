@@ -1,6 +1,6 @@
 # Howdy 👋
 
-I'm **Jacob** (or cobb or cobbland or even [cobb-dot-land](https://cobb.land)), a **full-stack web developer** (and writer and [game designer](https://illuminatedsnail.com) and occasional [professional dungeon master](https://startplaying.games/gm/cobbland)) currently dwelling in the foothills of Appalachia (Lynchburg, VA).
+I'm **Jacob**, a **full-stack web developer** (and occasional [game designer](https://illuminatedsnail.com) and [professional dungeon master](https://startplaying.games/gm/cobbland)) currently dwelling in the foothills of Appalachia (Lynchburg, VA).
 
 **Currently...**
 
