@@ -10,4 +10,4 @@ I'm **Jacob**, a **full-stack web developer** (and occasional [game designer](ht
 - Enjoying light mode, despite the haters
 - **Available for full-stack, frontend, or backend roles—[let's talk](mailto:hello@jacobdensford.com)**
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,vite,nodejs,express,jest,postgres,prisma,nginx,git,linux,arch,vim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,express,react,nodejs,html,css,js,prisma,vite,nginx,git,linux)](https://skillicons.dev)
