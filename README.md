@@ -1,6 +1,6 @@
 # Howdy 👋
 
-I'm **Jacob**, a **full-stack web developer** (and occasional [game designer](https://illuminatedsnail.com) and [professional dungeon master](https://startplaying.games/gm/cobbland)) currently dwelling in the foothills of Appalachia (Lynchburg, VA).
+I'm **Jacob**, a **full-stack web developer** (and occasional [game designer](https://illuminatedsnail.com) and [professional dungeon master](https://startplaying.games/gm/cobbland)) from the foothills of Appalachia (Lynchburg, VA).
 
 **Currently...**
 
